@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72843843675",
+    "project_id": "getinshape-v2",
+    "storage_bucket": "getinshape-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72843843675:android:3f9775a5b4c50b8e6d877e",
+        "android_client_info": {
+          "package_name": "com.example.getinshape_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72843843675-3r0hslnblh3h2h0gj9rj6gestm0o2p2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1mPwWUMw8rI7Ht9Z_24mvny4eVjiM28Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72843843675-3r0hslnblh3h2h0gj9rj6gestm0o2p2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
